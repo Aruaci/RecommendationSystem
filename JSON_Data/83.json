@@ -1,0 +1,45 @@
+{
+    "publishedAt": "2020-02-28T13:36:11Z",
+    "channelId": "UCotwjyJnb-4KW7bmsOoLfkg",
+    "title": "How Recommender Systems Work (Netflix/Amazon)",
+    "description": "The key insights behind content and collaborative filtering (Matrix Factorization). How Amazon, Netflix, Facebook and others predict what you will like.\n\nPaper in this video:\nMatrix Factorization Techniques for Recommender Systems\nhttps://www.inf.unibz.it/~ricci/ISR/papers/ieeecomputer.pdf",
+    "thumbnails": {
+        "default": {
+            "url": "https://i.ytimg.com/vi/n3RKsY2H-NE/default.jpg",
+            "width": 120,
+            "height": 90
+        },
+        "medium": {
+            "url": "https://i.ytimg.com/vi/n3RKsY2H-NE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+        },
+        "high": {
+            "url": "https://i.ytimg.com/vi/n3RKsY2H-NE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+        },
+        "standard": {
+            "url": "https://i.ytimg.com/vi/n3RKsY2H-NE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+        },
+        "maxres": {
+            "url": "https://i.ytimg.com/vi/n3RKsY2H-NE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+        }
+    },
+    "channelTitle": "Art of the Problem",
+    "categoryId": "27",
+    "liveBroadcastContent": "none",
+    "localized": {
+        "title": "How Recommender Systems Work (Netflix/Amazon)",
+        "description": "The key insights behind content and collaborative filtering (Matrix Factorization). How Amazon, Netflix, Facebook and others predict what you will like.\n\nPaper in this video:\nMatrix Factorization Techniques for Recommender Systems\nhttps://www.inf.unibz.it/~ricci/ISR/papers/ieeecomputer.pdf"
+    },
+    "defaultAudioLanguage": "en-CA",
+    "topicCategories": [
+        "https://en.wikipedia.org/wiki/Knowledge",
+        "https://en.wikipedia.org/wiki/Technology"
+    ]
+}

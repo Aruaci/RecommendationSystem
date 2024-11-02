@@ -1,0 +1,44 @@
+{
+    "publishedAt": "2024-10-27T05:11:25Z",
+    "channelId": "UCLlJIUU9dSVgzHoqWAgUx7w",
+    "title": "'Inverno' for strings and harp by Roger Moisan",
+    "description": "'Inverno' is the Italian word for winter. This piece for strings and harp depicts the feeling of deep winter. Score and parts are available on request.",
+    "thumbnails": {
+        "default": {
+            "url": "https://i.ytimg.com/vi/7cD8uTlW2XU/default.jpg",
+            "width": 120,
+            "height": 90
+        },
+        "medium": {
+            "url": "https://i.ytimg.com/vi/7cD8uTlW2XU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+        },
+        "high": {
+            "url": "https://i.ytimg.com/vi/7cD8uTlW2XU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+        },
+        "standard": {
+            "url": "https://i.ytimg.com/vi/7cD8uTlW2XU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+        },
+        "maxres": {
+            "url": "https://i.ytimg.com/vi/7cD8uTlW2XU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+        }
+    },
+    "channelTitle": "Roger Moisan",
+    "categoryId": "27",
+    "liveBroadcastContent": "none",
+    "localized": {
+        "title": "'Inverno' for strings and harp by Roger Moisan",
+        "description": "'Inverno' is the Italian word for winter. This piece for strings and harp depicts the feeling of deep winter. Score and parts are available on request."
+    },
+    "topicCategories": [
+        "https://en.wikipedia.org/wiki/Classical_music",
+        "https://en.wikipedia.org/wiki/Music"
+    ]
+}

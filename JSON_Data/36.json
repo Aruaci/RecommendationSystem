@@ -1,0 +1,58 @@
+{
+    "publishedAt": "2022-08-08T15:32:48Z",
+    "channelId": "UCZjm1i6bt-d6uMg0ch2u7Og",
+    "title": "Automata Dog Walker (Updated)",
+    "description": "Automaton of a man walking his dog. I have revised the mechanism driving his free arm by linking it to his legs rather than the dogs legs. I think that this gives it a more natural motion overall. Website: cphughes-art.ca",
+    "thumbnails": {
+        "default": {
+            "url": "https://i.ytimg.com/vi/9dSfFMZbEEo/default.jpg",
+            "width": 120,
+            "height": 90
+        },
+        "medium": {
+            "url": "https://i.ytimg.com/vi/9dSfFMZbEEo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+        },
+        "high": {
+            "url": "https://i.ytimg.com/vi/9dSfFMZbEEo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+        },
+        "standard": {
+            "url": "https://i.ytimg.com/vi/9dSfFMZbEEo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+        },
+        "maxres": {
+            "url": "https://i.ytimg.com/vi/9dSfFMZbEEo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+        }
+    },
+    "channelTitle": "KelsoBeachStudio",
+    "tags": [
+        "automata",
+        "automaton",
+        "dog",
+        "dog walker",
+        "coffee",
+        "hand-cranked",
+        "woodwork",
+        "carving",
+        "woodcarving",
+        "sculpture",
+        "kinetic art",
+        "hand carved"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+        "title": "Automata Dog Walker (Updated)",
+        "description": "Automaton of a man walking his dog. I have revised the mechanism driving his free arm by linking it to his legs rather than the dogs legs. I think that this gives it a more natural motion overall. Website: cphughes-art.ca"
+    },
+    "topicCategories": [
+        "https://en.wikipedia.org/wiki/Hobby",
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+}

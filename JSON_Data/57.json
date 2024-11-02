@@ -1,0 +1,53 @@
+{
+    "publishedAt": "2024-10-02T02:12:32Z",
+    "channelId": "UCQZmxJiOgEGABdE7LixW6tw",
+    "title": "EEVEE Test Cinematic - Blender Short",
+    "description": "I continue testing the updated EEVEE render in Blender 4.2. This is a test cinematic scene to study the capabilities of the EEVEE engine. You can download the project file for free in my telegram channel t.me\\rublev_cg. Thanks for watching!)\n\n#blenderg #blender #blender3d #blendereevee #eevee #eeveerender #cinematic #animation #cgi",
+    "thumbnails": {
+        "default": {
+            "url": "https://i.ytimg.com/vi/01in-EYjvaw/default.jpg",
+            "width": 120,
+            "height": 90
+        },
+        "medium": {
+            "url": "https://i.ytimg.com/vi/01in-EYjvaw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+        },
+        "high": {
+            "url": "https://i.ytimg.com/vi/01in-EYjvaw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+        },
+        "standard": {
+            "url": "https://i.ytimg.com/vi/01in-EYjvaw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+        },
+        "maxres": {
+            "url": "https://i.ytimg.com/vi/01in-EYjvaw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+        }
+    },
+    "channelTitle": "Rublev_CG",
+    "tags": [
+        "blender",
+        "blender3d",
+        "blendereevee",
+        "eevee",
+        "render",
+        "cgi",
+        "cinematic",
+        "animation"
+    ],
+    "categoryId": "1",
+    "liveBroadcastContent": "none",
+    "localized": {
+        "title": "EEVEE Test Cinematic - Blender Short",
+        "description": "I continue testing the updated EEVEE render in Blender 4.2. This is a test cinematic scene to study the capabilities of the EEVEE engine. You can download the project file for free in my telegram channel t.me\\rublev_cg. Thanks for watching!)\n\n#blenderg #blender #blender3d #blendereevee #eevee #eeveerender #cinematic #animation #cgi"
+    },
+    "topicCategories": [
+        "https://en.wikipedia.org/wiki/Video_game_culture"
+    ]
+}

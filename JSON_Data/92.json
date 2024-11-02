@@ -1,0 +1,38 @@
+{
+    "publishedAt": "2024-08-30T14:00:08Z",
+    "channelId": "UCU5o4RM1pkT1vF_LlyB8FYg",
+    "title": "Car needs refueling",
+    "description": "",
+    "thumbnails": {
+        "default": {
+            "url": "https://i.ytimg.com/vi/A03JtlZ09RA/default.jpg",
+            "width": 120,
+            "height": 90
+        },
+        "medium": {
+            "url": "https://i.ytimg.com/vi/A03JtlZ09RA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+        },
+        "high": {
+            "url": "https://i.ytimg.com/vi/A03JtlZ09RA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+        },
+        "standard": {
+            "url": "https://i.ytimg.com/vi/A03JtlZ09RA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+        }
+    },
+    "channelTitle": "Lunaistabby",
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "localized": {
+        "title": "Car needs refueling",
+        "description": ""
+    },
+    "topicCategories": [
+        "https://en.wikipedia.org/wiki/Pet"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "publishedAt": "2019-12-22T14:31:56Z",
+    "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+    "title": "Bayes theorem, the geometry of changing beliefs",
+    "description": "Perhaps the most important formula in probability.\nHelp fund future projects: https://www.patreon.com/3blue1brown\nAn equally valuable form of support is to simply share some of the videos.\nSpecial thanks to these supporters: http://3b1b.co/bayes-thanks\r\nHome page: https://www.3blue1brown.com\n\nThe quick proof: https://youtu.be/U_85TaXbeIo\n\nInteractive made by Reddit user Thoggalluth: https://nskobelevs.github.io/p5js/BayesTheorem/\n\nThe study with Steve:\nhttps://science.sciencemag.org/content/185/4157/1124\nhttp://www.its.caltech.edu/~camerer/Ec101/JudgementUncertainty.pdf\n\nYou can read more about Kahneman and Tversky's work in Thinking Fast and Slow, or in one of my favorite books, The Undoing Project.\n\nContents:\n0:00 - Intro example\n4:09 - Generalizing as a formula\n10:13 - Making probability intuitive\n13:35 - Issues with the Steve example\n\r\nThanks to these viewers for their contributions to translations\nGujarati: Hitesh12358, Pragna1991\nHebrew: Omer Tuchfeld\nItalian: @crampaldo\n\n------------------\r\n\r\nThese animations are largely made using manim, a scrappy open-source python library:  https://github.com/3b1b/manim\r\n\r\nIf you want to check it out, I feel compelled to warn you that it's not the most well-documented tool, and it has many other quirks you might expect in a library someone wrote with only their own use in mind.\r\n\r\nMusic by Vincent Rubinetti.\r\nDownload the music on Bandcamp:\r\nhttps://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown\r\n\r\nStream the music on Spotify:\r\nhttps://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u\r\n\r\nIf you want to contribute translated subtitles or to help review those that have already been made by others and need approval, you can click the gear icon in the video and go to subtitles/cc, then \"add subtitles/cc\".  I really appreciate those who do this, as it helps make the lessons accessible to more people.\r\n\r\n------------------\r\n\r\n3blue1brown is a channel about animating math, in all senses of the word animate.  And you know the drill with YouTube, if you want to stay posted on new videos, subscribe: http://3b1b.co/subscribe\r\n\r\nVarious social media stuffs:\r\nWebsite: https://www.3blue1brown.com\r\nTwitter: https://twitter.com/3blue1brown\r\nReddit: https://www.reddit.com/r/3blue1brown\r\nInstagram: https://www.instagram.com/3blue1brown_animations/\r\nPatreon: https://patreon.com/3blue1brown\r\nFacebook: https://www.facebook.com/3blue1brown",
+    "thumbnails": {
+        "default": {
+            "url": "https://i.ytimg.com/vi/HZGCoVF3YvM/default.jpg",
+            "width": 120,
+            "height": 90
+        },
+        "medium": {
+            "url": "https://i.ytimg.com/vi/HZGCoVF3YvM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+        },
+        "high": {
+            "url": "https://i.ytimg.com/vi/HZGCoVF3YvM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+        },
+        "standard": {
+            "url": "https://i.ytimg.com/vi/HZGCoVF3YvM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+        },
+        "maxres": {
+            "url": "https://i.ytimg.com/vi/HZGCoVF3YvM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+        }
+    },
+    "channelTitle": "3Blue1Brown",
+    "tags": [
+        "Mathematics",
+        "three blue one brown",
+        "3 blue 1 brown",
+        "3b1b",
+        "3brown1blue",
+        "3 brown 1 blue",
+        "three brown one blue"
+    ],
+    "categoryId": "27",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+        "title": "Bayes theorem, the geometry of changing beliefs",
+        "description": "Perhaps the most important formula in probability.\nHelp fund future projects: https://www.patreon.com/3blue1brown\nAn equally valuable form of support is to simply share some of the videos.\nSpecial thanks to these supporters: http://3b1b.co/bayes-thanks\r\nHome page: https://www.3blue1brown.com\n\nThe quick proof: https://youtu.be/U_85TaXbeIo\n\nInteractive made by Reddit user Thoggalluth: https://nskobelevs.github.io/p5js/BayesTheorem/\n\nThe study with Steve:\nhttps://science.sciencemag.org/content/185/4157/1124\nhttp://www.its.caltech.edu/~camerer/Ec101/JudgementUncertainty.pdf\n\nYou can read more about Kahneman and Tversky's work in Thinking Fast and Slow, or in one of my favorite books, The Undoing Project.\n\nContents:\n0:00 - Intro example\n4:09 - Generalizing as a formula\n10:13 - Making probability intuitive\n13:35 - Issues with the Steve example\n\r\nThanks to these viewers for their contributions to translations\nGujarati: Hitesh12358, Pragna1991\nHebrew: Omer Tuchfeld\nItalian: @crampaldo\n\n------------------\r\n\r\nThese animations are largely made using manim, a scrappy open-source python library:  https://github.com/3b1b/manim\r\n\r\nIf you want to check it out, I feel compelled to warn you that it's not the most well-documented tool, and it has many other quirks you might expect in a library someone wrote with only their own use in mind.\r\n\r\nMusic by Vincent Rubinetti.\r\nDownload the music on Bandcamp:\r\nhttps://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown\r\n\r\nStream the music on Spotify:\r\nhttps://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u\r\n\r\nIf you want to contribute translated subtitles or to help review those that have already been made by others and need approval, you can click the gear icon in the video and go to subtitles/cc, then \"add subtitles/cc\".  I really appreciate those who do this, as it helps make the lessons accessible to more people.\r\n\r\n------------------\r\n\r\n3blue1brown is a channel about animating math, in all senses of the word animate.  And you know the drill with YouTube, if you want to stay posted on new videos, subscribe: http://3b1b.co/subscribe\r\n\r\nVarious social media stuffs:\r\nWebsite: https://www.3blue1brown.com\r\nTwitter: https://twitter.com/3blue1brown\r\nReddit: https://www.reddit.com/r/3blue1brown\r\nInstagram: https://www.instagram.com/3blue1brown_animations/\r\nPatreon: https://patreon.com/3blue1brown\r\nFacebook: https://www.facebook.com/3blue1brown"
+    },
+    "defaultAudioLanguage": "en",
+    "topicCategories": [
+        "https://en.wikipedia.org/wiki/Knowledge"
+    ]
+}

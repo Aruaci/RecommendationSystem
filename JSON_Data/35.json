@@ -1,0 +1,46 @@
+{
+    "publishedAt": "2023-08-24T00:57:01Z",
+    "channelId": "UCdypYihwplMKr4p34QVjFIQ",
+    "title": "Hair cards (Blender)",
+    "description": "Creating hair cards using curves in Blender.",
+    "thumbnails": {
+        "default": {
+            "url": "https://i.ytimg.com/vi/jMsggOPIO04/default.jpg",
+            "width": 120,
+            "height": 90
+        },
+        "medium": {
+            "url": "https://i.ytimg.com/vi/jMsggOPIO04/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+        },
+        "high": {
+            "url": "https://i.ytimg.com/vi/jMsggOPIO04/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+        },
+        "standard": {
+            "url": "https://i.ytimg.com/vi/jMsggOPIO04/sddefault.jpg",
+            "width": 640,
+            "height": 480
+        },
+        "maxres": {
+            "url": "https://i.ytimg.com/vi/jMsggOPIO04/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+        }
+    },
+    "channelTitle": "JM SG",
+    "tags": [
+        "haircards",
+        "blender",
+        "hair",
+        "game"
+    ],
+    "categoryId": "1",
+    "liveBroadcastContent": "none",
+    "localized": {
+        "title": "Hair cards (Blender)",
+        "description": "Creating hair cards using curves in Blender."
+    }
+}

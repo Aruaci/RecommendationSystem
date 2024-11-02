@@ -1,0 +1,82 @@
+{
+    "publishedAt": "2024-10-19T13:27:23Z",
+    "channelId": "UCdp4_l1vPmpN-gDbUwhaRUQ",
+    "title": "How do Graphics Cards Work?  Exploring GPU Architecture",
+    "description": "Interested in working with Micron to make cutting-edge memory chips?  Work at Micron:  https://bit.ly/micron-careers \nLearn more about Micron's Graphic Memory!  Explore Here: https://bit.ly/micron-graphic-memory\nCurious about AI memory and HBM3E?  Take a look:  https://bit.ly/micron-hbm3e\n\nGraphics Cards can run some of the most incredible video games, but how many calculations do they perform every single second?  Well, some of the most advanced graphics perform 36 Trillion calculations or more every single second.  But how can a single device manage these tens of trillions of calculations?  In this video, we explore the architecture inside the 3090 graphics card and the GA102 GPU chip architecture.  \n\nNote: We chose to feature the 30 series of GPUs because, to create accurate 3D models, we had to tear down a 3090 GPU rather destructively. We typically select a slightly older model because we're able to find broken components on eBay. If you're wondering, the 4090 can perform 82.58 trillion calculations a second, and then we're sure the 5090 will be even more.\n\nTable of Contents:\n00:00 - How many calculations do Graphics Cards Perform?\n02:15 - The Difference between GPUs and CPUs?\n04:56 - GPU GA102 Architecture\n06:59 - GPU GA102 Manufacturing\n08:48 - CUDA Core Design\n11:09 - Graphics Cards Components\n12:04 - Graphics Memory GDDR6X GDDR7\n15:11 - All about Micron\n16:51 - Single Instruction Multiple Data Architecture\n17:49 - Why GPUs run Video Game Graphics, Object Transformations\n20:53 - Thread Architecture\n23:31 - Help Branch Education Out!\n24:29 - Bitcoin Mining\n26:50 - Tensor Cores\n27:58 - Outro\n\nWe're working on more ambitious subjects like computer architecture and graphics cards. Any contribution would greatly help make these videos. https://www.patreon.com/brancheducation \nBranch Education Website: https://www.branch.education \nBranch Education Facebook: https://www.facebook.com/BranchEducation/\n\nKey Branches from this video are: How do Video Game Graphics Work?  https://youtu.be/C8YtdC8mxTU\n\nAnimation: Mike Radjabov, Sherdil Davronov, Adrei Dulay, Parvesh Khatri\nResearch, Script and Editing: Teddy Tablante\nTwitter: @teddytablante\nModeling: Mike Radjabov, Prakash Kakadiya\nVoice Over: Phil Lee\nSound Design by Drilu: www.drilu.world\nSound Design and mix: David Pinete\nAdditional Sound Design: Raúl Núñez\nSupervising Sound Editor: Luis Huesca \n\nErratum:  \n04:50 Ubuntu is a type of Linux\n08:45 3080 has 10GB, not 12GB.\n\nImage Attribution:\nWilliams, George.  Jacquard Loom 6/6 https://www.flickr.com/photos/ghwpix/18056523/in/album-72157631870990316/\nEiermann, Georg.  A close up of a weaving machine in a room.  Jacquard Loom.  https://unsplash.com/photos/a-close-up-of-a-weaving-machine-in-a-room--jvBPiva0vc\n\nWikipedia contributors.    \"Embarrassingly Parallel\", \"Graphics Processing Unit\", \"Parallel Computing\" , \" SIMD\", \" Single Instruction, Multiple Threads\" , \"Thread block (CUDA Programming)\".    Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, Visited October 18th 2024\n\nTextbooks and Papers\nA TON of information was found in Nvidia's white papers.  You can find them here:\nhttps://research.nvidia.com/publications\nWe recommend the GA102 architecture white paper and the fermi architecture white paper.\n\n#GPU #GraphicsCard #Micron",
+    "thumbnails": {
+        "default": {
+            "url": "https://i.ytimg.com/vi/h9Z4oGN89MU/default.jpg",
+            "width": 120,
+            "height": 90
+        },
+        "medium": {
+            "url": "https://i.ytimg.com/vi/h9Z4oGN89MU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+        },
+        "high": {
+            "url": "https://i.ytimg.com/vi/h9Z4oGN89MU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+        },
+        "standard": {
+            "url": "https://i.ytimg.com/vi/h9Z4oGN89MU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+        },
+        "maxres": {
+            "url": "https://i.ytimg.com/vi/h9Z4oGN89MU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+        }
+    },
+    "channelTitle": "Branch Education",
+    "tags": [
+        "graphics card",
+        "graphics processing unit",
+        "graphics pipeline",
+        "video games",
+        "GPU",
+        "cpu vs gpu",
+        "CUDA Core",
+        "3090",
+        "3090 vs 4090",
+        "Best Graphics Card",
+        "How do Graphics Cards Work?",
+        "3090ti",
+        "3080ti",
+        "3080",
+        "3070",
+        "5090",
+        "5080",
+        "5090 titan",
+        "Nvidia",
+        "NVIDIA",
+        "Latest Graphics Cards",
+        "5090 Release",
+        "5090 GPU",
+        "5080 Graphics Card",
+        "GPU Architecture",
+        "Tensor Cores",
+        "Bitcoin mining",
+        "GPU Mining",
+        "Neural Network",
+        "GPUs",
+        "Graphics Cards",
+        "How do GPUs Work?",
+        "GPU vs CPU explained",
+        "GPU vs CPU Architecture",
+        "Branch Education"
+    ],
+    "categoryId": "27",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+        "title": "How do Graphics Cards Work?  Exploring GPU Architecture",
+        "description": "Interested in working with Micron to make cutting-edge memory chips?  Work at Micron:  https://bit.ly/micron-careers \nLearn more about Micron's Graphic Memory!  Explore Here: https://bit.ly/micron-graphic-memory\nCurious about AI memory and HBM3E?  Take a look:  https://bit.ly/micron-hbm3e\n\nGraphics Cards can run some of the most incredible video games, but how many calculations do they perform every single second?  Well, some of the most advanced graphics perform 36 Trillion calculations or more every single second.  But how can a single device manage these tens of trillions of calculations?  In this video, we explore the architecture inside the 3090 graphics card and the GA102 GPU chip architecture.  \n\nNote: We chose to feature the 30 series of GPUs because, to create accurate 3D models, we had to tear down a 3090 GPU rather destructively. We typically select a slightly older model because we're able to find broken components on eBay. If you're wondering, the 4090 can perform 82.58 trillion calculations a second, and then we're sure the 5090 will be even more.\n\nTable of Contents:\n00:00 - How many calculations do Graphics Cards Perform?\n02:15 - The Difference between GPUs and CPUs?\n04:56 - GPU GA102 Architecture\n06:59 - GPU GA102 Manufacturing\n08:48 - CUDA Core Design\n11:09 - Graphics Cards Components\n12:04 - Graphics Memory GDDR6X GDDR7\n15:11 - All about Micron\n16:51 - Single Instruction Multiple Data Architecture\n17:49 - Why GPUs run Video Game Graphics, Object Transformations\n20:53 - Thread Architecture\n23:31 - Help Branch Education Out!\n24:29 - Bitcoin Mining\n26:50 - Tensor Cores\n27:58 - Outro\n\nWe're working on more ambitious subjects like computer architecture and graphics cards. Any contribution would greatly help make these videos. https://www.patreon.com/brancheducation \nBranch Education Website: https://www.branch.education \nBranch Education Facebook: https://www.facebook.com/BranchEducation/\n\nKey Branches from this video are: How do Video Game Graphics Work?  https://youtu.be/C8YtdC8mxTU\n\nAnimation: Mike Radjabov, Sherdil Davronov, Adrei Dulay, Parvesh Khatri\nResearch, Script and Editing: Teddy Tablante\nTwitter: @teddytablante\nModeling: Mike Radjabov, Prakash Kakadiya\nVoice Over: Phil Lee\nSound Design by Drilu: www.drilu.world\nSound Design and mix: David Pinete\nAdditional Sound Design: Raúl Núñez\nSupervising Sound Editor: Luis Huesca \n\nErratum:  \n04:50 Ubuntu is a type of Linux\n08:45 3080 has 10GB, not 12GB.\n\nImage Attribution:\nWilliams, George.  Jacquard Loom 6/6 https://www.flickr.com/photos/ghwpix/18056523/in/album-72157631870990316/\nEiermann, Georg.  A close up of a weaving machine in a room.  Jacquard Loom.  https://unsplash.com/photos/a-close-up-of-a-weaving-machine-in-a-room--jvBPiva0vc\n\nWikipedia contributors.    \"Embarrassingly Parallel\", \"Graphics Processing Unit\", \"Parallel Computing\" , \" SIMD\", \" Single Instruction, Multiple Threads\" , \"Thread block (CUDA Programming)\".    Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, Visited October 18th 2024\n\nTextbooks and Papers\nA TON of information was found in Nvidia's white papers.  You can find them here:\nhttps://research.nvidia.com/publications\nWe recommend the GA102 architecture white paper and the fermi architecture white paper.\n\n#GPU #GraphicsCard #Micron"
+    },
+    "defaultAudioLanguage": "en",
+    "topicCategories": [
+        "https://en.wikipedia.org/wiki/Technology"
+    ]
+}

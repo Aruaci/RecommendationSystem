@@ -1,0 +1,47 @@
+{
+    "publishedAt": "2023-12-14T17:00:45Z",
+    "channelId": "UC9ZW14A6MXq2AhBmdFl9wdQ",
+    "title": "Meows of the Year Recap - BEST OF",
+    "description": "I put together a compilation of all my favorite meows from each MOTW episode over the last year! Was one of your favorites on here?",
+    "thumbnails": {
+        "default": {
+            "url": "https://i.ytimg.com/vi/VmTzMo_9kog/default.jpg",
+            "width": 120,
+            "height": 90
+        },
+        "medium": {
+            "url": "https://i.ytimg.com/vi/VmTzMo_9kog/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+        },
+        "high": {
+            "url": "https://i.ytimg.com/vi/VmTzMo_9kog/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+        },
+        "standard": {
+            "url": "https://i.ytimg.com/vi/VmTzMo_9kog/sddefault.jpg",
+            "width": 640,
+            "height": 480
+        }
+    },
+    "channelTitle": "Eevee & Yoshi",
+    "tags": [
+        "cats",
+        "meow",
+        "rag dolls",
+        "pets",
+        "eeveeandyoshi"
+    ],
+    "categoryId": "15",
+    "liveBroadcastContent": "none",
+    "localized": {
+        "title": "Meows of the Year Recap - BEST OF",
+        "description": "I put together a compilation of all my favorite meows from each MOTW episode over the last year! Was one of your favorites on here?"
+    },
+    "defaultAudioLanguage": "en",
+    "topicCategories": [
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+        "https://en.wikipedia.org/wiki/Pet"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "publishedAt": "2024-04-07T12:53:54Z",
+    "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+    "title": "Attention in transformers, visually explained | Chapter 6, Deep Learning",
+    "description": "Demystifying attention, the key mechanism inside transformers and LLMs.\nInstead of sponsored ad reads, these lessons are funded directly by viewers: https://3b1b.co/support\nSpecial thanks to these supporters: https://www.3blue1brown.com/lessons/attention#thanks\nAn equally valuable form of support is to simply share the videos.\n\nDemystifying self-attention, multiple heads, and cross-attention.\nInstead of sponsored ad reads, these lessons are funded directly by viewers: https://3b1b.co/support\n\nThe first pass for the translated subtitles here is machine-generated, and therefore notably imperfect. To contribute edits or fixes, visit https://translate.3blue1brown.com/\n\nAnd yes, at 22:00 (and elsewhere), \"breaks\" is a typo.\n\n------------------\n\nHere are a few other relevant resources\n\nBuild a GPT from scratch, by Andrej Karpathy\nhttps://youtu.be/kCc8FmEb1nY\n\nIf you want a conceptual understanding of language models from the ground up, @vcubingx just started a short series of videos on the topic:\nhttps://youtu.be/1il-s4mgNdI?si=XaVxj6bsdy3VkgEX\n\nIf you're interested in the herculean task of interpreting what these large networks might actually be doing, the Transformer Circuits posts by Anthropic are great. In particular, it was only after reading one of these that I started thinking of the combination of the value and output matrices as being a combined low-rank map from the embedding space to itself, which, at least in my mind, made things much clearer than other sources.\nhttps://transformer-circuits.pub/2021/framework/index.html\n\nSite with exercises related to ML programming and GPTs\nhttps://www.gptandchill.ai/codingproblems\n\nHistory of language models by Brit Cruise,  @ArtOfTheProblem  \nhttps://youtu.be/OFS90-FX6pg\n\nAn early paper on how directions in embedding spaces have meaning:\nhttps://arxiv.org/pdf/1301.3781.pdf\n\n------------------\n\nTimestamps:\n0:00 - Recap on embeddings\n1:39 - Motivating examples\n4:29 - The attention pattern\n11:08 - Masking\n12:42 - Context size\n13:10 - Values\n15:44 - Counting parameters\n18:21 - Cross-attention\n19:19 - Multiple heads\n22:16 - The output matrix\n23:19 - Going deeper\n24:54 - Ending\n\n------------------\n\nThese animations are largely made using a custom Python library, manim.  See the FAQ comments here:\nhttps://3b1b.co/faq#manim\nhttps://github.com/3b1b/manim\nhttps://github.com/ManimCommunity/manim/\n\nAll code for specific videos is visible here:\nhttps://github.com/3b1b/videos/\n\nThe music is by Vincent Rubinetti.\nhttps://www.vincentrubinetti.com\nhttps://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown\nhttps://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u\n\n------------------\n\n3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.\n\nMailing list: https://3blue1brown.substack.com\nTwitter: https://twitter.com/3blue1brown\nInstagram: https://www.instagram.com/3blue1brown\nReddit: https://www.reddit.com/r/3blue1brown\nFacebook: https://www.facebook.com/3blue1brown\nPatreon: https://patreon.com/3blue1brown\nWebsite: https://www.3blue1brown.com",
+    "thumbnails": {
+        "default": {
+            "url": "https://i.ytimg.com/vi/eMlx5fFNoYc/default.jpg",
+            "width": 120,
+            "height": 90
+        },
+        "medium": {
+            "url": "https://i.ytimg.com/vi/eMlx5fFNoYc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+        },
+        "high": {
+            "url": "https://i.ytimg.com/vi/eMlx5fFNoYc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+        },
+        "standard": {
+            "url": "https://i.ytimg.com/vi/eMlx5fFNoYc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+        },
+        "maxres": {
+            "url": "https://i.ytimg.com/vi/eMlx5fFNoYc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+        }
+    },
+    "channelTitle": "3Blue1Brown",
+    "tags": [
+        "Mathematics",
+        "three blue one brown",
+        "3 blue 1 brown",
+        "3b1b",
+        "3brown1blue",
+        "3 brown 1 blue",
+        "three brown one blue"
+    ],
+    "categoryId": "27",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+        "title": "Attention in transformers, visually explained | Chapter 6, Deep Learning",
+        "description": "Demystifying attention, the key mechanism inside transformers and LLMs.\nInstead of sponsored ad reads, these lessons are funded directly by viewers: https://3b1b.co/support\nSpecial thanks to these supporters: https://www.3blue1brown.com/lessons/attention#thanks\nAn equally valuable form of support is to simply share the videos.\n\nDemystifying self-attention, multiple heads, and cross-attention.\nInstead of sponsored ad reads, these lessons are funded directly by viewers: https://3b1b.co/support\n\nThe first pass for the translated subtitles here is machine-generated, and therefore notably imperfect. To contribute edits or fixes, visit https://translate.3blue1brown.com/\n\nAnd yes, at 22:00 (and elsewhere), \"breaks\" is a typo.\n\n------------------\n\nHere are a few other relevant resources\n\nBuild a GPT from scratch, by Andrej Karpathy\nhttps://youtu.be/kCc8FmEb1nY\n\nIf you want a conceptual understanding of language models from the ground up, @vcubingx just started a short series of videos on the topic:\nhttps://youtu.be/1il-s4mgNdI?si=XaVxj6bsdy3VkgEX\n\nIf you're interested in the herculean task of interpreting what these large networks might actually be doing, the Transformer Circuits posts by Anthropic are great. In particular, it was only after reading one of these that I started thinking of the combination of the value and output matrices as being a combined low-rank map from the embedding space to itself, which, at least in my mind, made things much clearer than other sources.\nhttps://transformer-circuits.pub/2021/framework/index.html\n\nSite with exercises related to ML programming and GPTs\nhttps://www.gptandchill.ai/codingproblems\n\nHistory of language models by Brit Cruise,  @ArtOfTheProblem  \nhttps://youtu.be/OFS90-FX6pg\n\nAn early paper on how directions in embedding spaces have meaning:\nhttps://arxiv.org/pdf/1301.3781.pdf\n\n------------------\n\nTimestamps:\n0:00 - Recap on embeddings\n1:39 - Motivating examples\n4:29 - The attention pattern\n11:08 - Masking\n12:42 - Context size\n13:10 - Values\n15:44 - Counting parameters\n18:21 - Cross-attention\n19:19 - Multiple heads\n22:16 - The output matrix\n23:19 - Going deeper\n24:54 - Ending\n\n------------------\n\nThese animations are largely made using a custom Python library, manim.  See the FAQ comments here:\nhttps://3b1b.co/faq#manim\nhttps://github.com/3b1b/manim\nhttps://github.com/ManimCommunity/manim/\n\nAll code for specific videos is visible here:\nhttps://github.com/3b1b/videos/\n\nThe music is by Vincent Rubinetti.\nhttps://www.vincentrubinetti.com\nhttps://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown\nhttps://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u\n\n------------------\n\n3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.\n\nMailing list: https://3blue1brown.substack.com\nTwitter: https://twitter.com/3blue1brown\nInstagram: https://www.instagram.com/3blue1brown\nReddit: https://www.reddit.com/r/3blue1brown\nFacebook: https://www.facebook.com/3blue1brown\nPatreon: https://patreon.com/3blue1brown\nWebsite: https://www.3blue1brown.com"
+    },
+    "defaultAudioLanguage": "en",
+    "topicCategories": [
+        "https://en.wikipedia.org/wiki/Knowledge"
+    ]
+}

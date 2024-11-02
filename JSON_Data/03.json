@@ -1,0 +1,43 @@
+{
+    "publishedAt": "2024-05-28T12:20:38Z",
+    "channelId": "UCK-qeV3GA62DE8qZHOilSGg",
+    "title": "Just a Cat's Day in the Garden #ragdollcats",
+    "description": "Toby & Mika always enjoy their daily visit to the garden.",
+    "thumbnails": {
+        "default": {
+            "url": "https://i.ytimg.com/vi/r7Dbhu6A-P8/default.jpg",
+            "width": 120,
+            "height": 90
+        },
+        "medium": {
+            "url": "https://i.ytimg.com/vi/r7Dbhu6A-P8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+        },
+        "high": {
+            "url": "https://i.ytimg.com/vi/r7Dbhu6A-P8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+        },
+        "standard": {
+            "url": "https://i.ytimg.com/vi/r7Dbhu6A-P8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+        },
+        "maxres": {
+            "url": "https://i.ytimg.com/vi/r7Dbhu6A-P8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+        }
+    },
+    "channelTitle": "Xiedubbel",
+    "tags": [
+        "#ragdollcats #garden #nomusic #relaxingvideo"
+    ],
+    "categoryId": "15",
+    "liveBroadcastContent": "none",
+    "localized": {
+        "title": "Just a Cat's Day in the Garden #ragdollcats",
+        "description": "Toby & Mika always enjoy their daily visit to the garden."
+    }
+}

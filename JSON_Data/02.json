@@ -3,6 +3,28 @@
     "channelId": "UC9ZW14A6MXq2AhBmdFl9wdQ",
     "title": "Cat goes wild for catnip toys!",
     "description": "Yoshi was clearly a fan, must be some strong catnip in there!\n\nWe love supporting small businesses. Here are the social media links to these two lovely people:\n\nPawsitive Vibe Prints:\nhttps://instagram.com/pawsitivevibeprints?igshid=MzRlODBiNWFlZA==\nhttps://www.tiktok.com/@pawsitivevibeprints?_t=8gTvhEtgJsh&_r=1\n\nJAG Kitties - each purchase helps their precious kitty fighting FIP\nhttps://instagram.com/jagkitties3?igshid=MzRlODBiNWFlZA==\nhttps://www.tiktok.com/@jagkitties?_t=8gTvmk3mWwo&_r=1\n\n\n\nOur PO Box:\n1400 Patriot Blvd\n#2514 \nGlenview, IL 60026\n\n\n#catnip #cats #cattoys #zoomies #catsofyoutube #meow #ragdollcats #catmom #eeveeandyoshi",
+    "thumbnails": {
+        "default": {
+            "url": "https://i.ytimg.com/vi/Wz_3ATxO48Y/default.jpg",
+            "width": 120,
+            "height": 90
+        },
+        "medium": {
+            "url": "https://i.ytimg.com/vi/Wz_3ATxO48Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+        },
+        "high": {
+            "url": "https://i.ytimg.com/vi/Wz_3ATxO48Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+        },
+        "standard": {
+            "url": "https://i.ytimg.com/vi/Wz_3ATxO48Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+        }
+    },
     "channelTitle": "Eevee & Yoshi",
     "categoryId": "15",
     "liveBroadcastContent": "none",
