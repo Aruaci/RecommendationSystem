@@ -49,7 +49,7 @@ if st.button("Random"):
 selected_video_title = st.selectbox(
     "Select a video:",
     data['title'].tolist(),
-    index=data['title'].tolist().index(st.session_state["selected_video_title"])
+    index=data['title'].tolist().index(st.session_state.get("selected_video_title", data['title'].tolist()[0]))
 )
 
 st.session_state["selected_video_title"] = selected_video_title
